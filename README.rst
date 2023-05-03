@@ -8,12 +8,12 @@ repetition and cosmetic problems such as lines length, trailing spaces,
 indentation, etc.
 
 .. image::
-   https://github.com/adrienverge/yamllint/actions/workflows/ci.yaml/badge.svg?branch=master
-   :target: https://github.com/adrienverge/yamllint/actions/workflows/ci.yaml?query=branch%3Amaster
+   https://github.com/buluma/yamllint/actions/workflows/ci.yaml/badge.svg?branch=master
+   :target: https://github.com/buluma/yamllint/actions/workflows/ci.yaml?query=branch%3Amaster
    :alt: CI tests status
 .. image::
-   https://coveralls.io/repos/github/adrienverge/yamllint/badge.svg?branch=master
-   :target: https://coveralls.io/github/adrienverge/yamllint?branch=master
+   https://coveralls.io/repos/github/buluma/yamllint/badge.svg?branch=master
+   :target: https://coveralls.io/github/buluma/yamllint?branch=master
    :alt: Code coverage status
 .. image:: https://readthedocs.org/projects/yamllint/badge/?version=latest
    :target: https://yamllint.readthedocs.io/en/latest/?badge=latest
